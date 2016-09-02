@@ -1,5 +1,5 @@
 /**
-*	@author 
+*	@author : Jackson Schilmoeller
 *	@date 
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
